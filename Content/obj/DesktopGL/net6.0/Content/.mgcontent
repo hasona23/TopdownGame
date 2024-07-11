@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Code/C#/TopdownGame/Content/arrow.png</File>
+    <File>D:/Code/C#/TopdownGame/Content/bow_arrow_anim.png</File>
+    <File>D:/Code/C#/TopdownGame/Content/bow.png</File>
+    <File>D:/Code/C#/TopdownGame/Content/File.spritefont</File>
+    <File>D:/Code/C#/TopdownGame/Content/pixil-frame-0 (1).png</File>
+    <File>D:/Code/C#/TopdownGame/Content/pixil-frame-0 (2).png</File>
+    <File>D:/Code/C#/TopdownGame/Content/player.png</File>
+    <File>D:/Code/C#/TopdownGame/Content/PublicPixel-E447g.bmp</File>
+    <File>D:/Code/C#/TopdownGame/Content/PublicPixel-E447g.png</File>
+    <File>D:/Code/C#/TopdownGame/Content/Slime.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>font.spritefont</File>
+    <File>ground.png</File>
+    <File>wall.png</File>
+    <File xsi:nil="true" />
+    <File>fontbmp.bmp</File>
+    <File>fontpng.png</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
