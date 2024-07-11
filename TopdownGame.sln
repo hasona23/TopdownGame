@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopdownGame", "TopdownGame.csproj", "{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopdownGame", "TopdownGame.csproj", "{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zap_ecs", "..\Zap\ZapEcs\Zap_ecs\Zap_ecs.csproj", "{3AF6CD14-87E8-475A-AAE9-617984ED5E8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF6CD14-87E8-475A-AAE9-617984ED5E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF6CD14-87E8-475A-AAE9-617984ED5E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF6CD14-87E8-475A-AAE9-617984ED5E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF6CD14-87E8-475A-AAE9-617984ED5E8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

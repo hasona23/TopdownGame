@@ -54,6 +54,16 @@
             "rid": "win-x86"
           }
         }
+      },
+      "Zap_ecs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Zap_ecs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Zap_ecs.dll": {}
+        }
       }
     }
   },
@@ -93,12 +103,18 @@
         "runtimes/win-x86/native/SDL2.dll",
         "runtimes/win-x86/native/soft_oal.dll"
       ]
+    },
+    "Zap_ecs/1.0.0": {
+      "type": "project",
+      "path": "../Zap/ZapEcs/Zap_ecs/Zap_ecs.csproj",
+      "msbuildProject": "../Zap/ZapEcs/Zap_ecs/Zap_ecs.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "MonoGame.Content.Builder.Task >= 3.8.1.303",
-      "MonoGame.Framework.DesktopGL >= 3.8.1.303"
+      "MonoGame.Framework.DesktopGL >= 3.8.1.303",
+      "Zap_ecs >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -132,7 +148,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Zap_ecs.csproj": {
+              "projectPath": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Zap_ecs.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
