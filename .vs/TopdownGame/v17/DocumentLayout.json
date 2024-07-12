@@ -3,20 +3,15 @@
   "WorkspaceRootPath": "D:\\Code\\C#\\TopdownGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|d:\\code\\c#\\topdowngame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|d:\\code\\c#\\topdowngame\\topdowngame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|solutionrelative:topdowngame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|d:\\code\\c#\\topdowngame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|d:\\code\\c#\\topdowngame\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|solutionrelative:globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AF6CD14-87E8-475A-AAE9-617984ED5E8B}|..\\Zap\\ZapEcs\\Zap_ecs\\Zap_ecs.csproj|d:\\code\\c#\\zap\\zapecs\\zap_ecs\\tilemaps\\tilemaprenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|d:\\code\\c#\\topdowngame\\tilemap.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|solutionrelative:tilemap.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|d:\\code\\c#\\topdowngame\\texturesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,21 +25,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TopdownGame",
-              "DocumentMoniker": "D:\\Code\\C#\\TopdownGame\\TopdownGame.csproj",
-              "RelativeDocumentMoniker": "TopdownGame.csproj",
-              "ToolTip": "D:\\Code\\C#\\TopdownGame\\TopdownGame.csproj",
-              "RelativeToolTip": "TopdownGame.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-11T17:32:30.681Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -55,54 +37,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\TopdownGame\\GameManager.cs",
-              "RelativeDocumentMoniker": "GameManager.cs",
-              "ToolTip": "D:\\Code\\C#\\TopdownGame\\GameManager.cs",
-              "RelativeToolTip": "GameManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:32:54.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Globals.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\TopdownGame\\Globals.cs",
-              "RelativeDocumentMoniker": "Globals.cs",
-              "ToolTip": "D:\\Code\\C#\\TopdownGame\\Globals.cs",
-              "RelativeToolTip": "Globals.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Title": "TexturesManager.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\TopdownGame\\TexturesManager.cs",
+              "RelativeDocumentMoniker": "TexturesManager.cs",
+              "ToolTip": "D:\\Code\\C#\\TopdownGame\\TexturesManager.cs",
+              "RelativeToolTip": "TexturesManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:03:37.697Z",
+              "WhenOpened": "2024-07-12T13:14:16.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "tilemap.csv",
+              "DocumentMoniker": "D:\\Code\\C#\\TopdownGame\\tilemap.csv",
+              "RelativeDocumentMoniker": "tilemap.csv",
+              "ToolTip": "D:\\Code\\C#\\TopdownGame\\tilemap.csv",
+              "RelativeToolTip": "tilemap.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-12T11:33:00.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Game1.cs",
               "DocumentMoniker": "D:\\Code\\C#\\TopdownGame\\Game1.cs",
               "RelativeDocumentMoniker": "Game1.cs",
               "ToolTip": "D:\\Code\\C#\\TopdownGame\\Game1.cs",
               "RelativeToolTip": "Game1.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABoAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T02:51:56.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TexturesManager.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\TopdownGame\\TexturesManager.cs",
-              "RelativeDocumentMoniker": "TexturesManager.cs",
-              "ToolTip": "D:\\Code\\C#\\TopdownGame\\TexturesManager.cs",
-              "RelativeToolTip": "TexturesManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABFAAAA",
+              "DocumentIndex": 1,
+              "Title": "TilemapRenderer.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Tilemaps\\TilemapRenderer.cs",
+              "RelativeDocumentMoniker": "..\\Zap\\ZapEcs\\Zap_ecs\\Tilemaps\\TilemapRenderer.cs",
+              "ToolTip": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Tilemaps\\TilemapRenderer.cs",
+              "RelativeToolTip": "..\\Zap\\ZapEcs\\Zap_ecs\\Tilemaps\\TilemapRenderer.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:03:09.128Z",
+              "WhenOpened": "2024-07-12T11:26:48.193Z",
               "EditorCaption": ""
             }
           ]

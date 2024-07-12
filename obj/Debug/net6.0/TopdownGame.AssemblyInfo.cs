@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TopdownGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f13fe4f4fc353998d688b789925ba526c95272c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dd0e5f7b6fb160025900f7943186f9eeadc4e17")]
 [assembly: System.Reflection.AssemblyProductAttribute("TopdownGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TopdownGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,6 +14,7 @@
     <File>D:/Code/C#/TopdownGame/Content/PublicPixel-E447g.bmp</File>
     <File>D:/Code/C#/TopdownGame/Content/PublicPixel-E447g.png</File>
     <File>D:/Code/C#/TopdownGame/Content/Slime.png</File>
+    <File>D:/Code/C#/TopdownGame/Content/tilemap_packed.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
@@ -25,6 +26,7 @@
     <File xsi:nil="true" />
     <File>fontbmp.bmp</File>
     <File>fontpng.png</File>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

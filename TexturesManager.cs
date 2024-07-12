@@ -13,6 +13,7 @@ namespace TopdownGame
         public static Texture2D wallTile;
         public static Texture2D fontpng;
         public static Texture2D fontbmp;
+        public static Texture2D test;
 
         public static void Init() 
         {
@@ -25,6 +26,7 @@ namespace TopdownGame
             arrow_bow = Globals.ContentManager.Load<Texture2D>("bow_arrow_anim");
             fontpng = Globals.ContentManager.Load<Texture2D>("fontpng");
             fontbmp = Globals.ContentManager.Load<Texture2D>("fontbmp");
+            test = Globals.ContentManager.Load<Texture2D>("tilemap_packed");
         }
     }
 }

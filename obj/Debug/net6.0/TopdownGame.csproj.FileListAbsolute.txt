@@ -36,3 +36,4 @@ D:\Code\C#\TopdownGame\obj\Debug\net6.0\refint\TopdownGame.dll
 D:\Code\C#\TopdownGame\obj\Debug\net6.0\TopdownGame.pdb
 D:\Code\C#\TopdownGame\obj\Debug\net6.0\TopdownGame.genruntimeconfig.cache
 D:\Code\C#\TopdownGame\obj\Debug\net6.0\ref\TopdownGame.dll
+D:\Code\C#\TopdownGame\bin\Debug\net6.0\Content\tilemap_packed.xnb

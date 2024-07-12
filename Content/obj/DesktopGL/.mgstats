@@ -1,11 +1,12 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"D:/Code/C#/TopdownGame/Content/arrow.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/arrow.xnb","TextureProcessor","Texture2DContent",105,341,0.2516659
-"D:/Code/C#/TopdownGame/Content/bow_arrow_anim.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/bow_arrow_anim.xnb","TextureProcessor","Texture2DContent",155,853,0.0023043
-"D:/Code/C#/TopdownGame/Content/bow.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/bow.xnb","TextureProcessor","Texture2DContent",107,341,0.001939
-"D:/Code/C#/TopdownGame/Content/File.spritefont","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/font.xnb","FontDescriptionProcessor","SpriteFontContent",2080,37919,0.1905385
-"D:/Code/C#/TopdownGame/Content/pixil-frame-0 (1).png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/ground.xnb","TextureProcessor","Texture2DContent",89,341,0.002728
-"D:/Code/C#/TopdownGame/Content/pixil-frame-0 (2).png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/wall.xnb","TextureProcessor","Texture2DContent",89,341,0.002351
-"D:/Code/C#/TopdownGame/Content/player.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/player.xnb","TextureProcessor","Texture2DContent",223,1109,0.0049775
-"D:/Code/C#/TopdownGame/Content/PublicPixel-E447g.bmp","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/fontbmp.xnb","TextureProcessor","Texture2DContent",1536138,1536085,0.1064357
-"D:/Code/C#/TopdownGame/Content/PublicPixel-E447g.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/fontpng.xnb","TextureProcessor","Texture2DContent",9689,1536085,0.0494998
-"D:/Code/C#/TopdownGame/Content/Slime.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/Slime.xnb","TextureProcessor","Texture2DContent",171,597,0.0018443
+"D:/Code/C#/TopdownGame/Content/arrow.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/arrow.xnb","TextureProcessor","Texture2DContent",105,341,0.186339
+"D:/Code/C#/TopdownGame/Content/bow_arrow_anim.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/bow_arrow_anim.xnb","TextureProcessor","Texture2DContent",155,853,0.0092567
+"D:/Code/C#/TopdownGame/Content/bow.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/bow.xnb","TextureProcessor","Texture2DContent",107,341,0.0076918
+"D:/Code/C#/TopdownGame/Content/File.spritefont","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/font.xnb","FontDescriptionProcessor","SpriteFontContent",2080,37919,0.1523421
+"D:/Code/C#/TopdownGame/Content/pixil-frame-0 (1).png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/ground.xnb","TextureProcessor","Texture2DContent",89,341,0.0014365
+"D:/Code/C#/TopdownGame/Content/pixil-frame-0 (2).png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/wall.xnb","TextureProcessor","Texture2DContent",89,341,0.0089373
+"D:/Code/C#/TopdownGame/Content/player.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/player.xnb","TextureProcessor","Texture2DContent",223,1109,0.0096476
+"D:/Code/C#/TopdownGame/Content/PublicPixel-E447g.bmp","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/fontbmp.xnb","TextureProcessor","Texture2DContent",1536138,1536085,0.085288
+"D:/Code/C#/TopdownGame/Content/PublicPixel-E447g.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/fontpng.xnb","TextureProcessor","Texture2DContent",9689,1536085,0.0509444
+"D:/Code/C#/TopdownGame/Content/Slime.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/Slime.xnb","TextureProcessor","Texture2DContent",171,597,0.0086791
+"D:/Code/C#/TopdownGame/Content/tilemap_packed.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/tilemap_packed.xnb","TextureProcessor","Texture2DContent",1414,61525,0.0089509
