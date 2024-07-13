@@ -1,4 +1,5 @@
 ﻿global using Microsoft.Xna.Framework;
+global using Zap_ecs.Core;
 using Microsoft.Xna.Framework.Content;
 
 

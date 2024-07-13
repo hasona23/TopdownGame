@@ -26,8 +26,7 @@
     <ProjectReference Include="..\Zap\ZapEcs\Zap_ecs\Zap_ecs.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Components\" />
-    <Folder Include="Systems\" />
+    <Folder Include="Tilemaps\" />
   </ItemGroup>
   <Target Name="RestoreDotnetTools" BeforeTargets="Restore">
     <Message Text="Restoring dotnet tools" Importance="High" />

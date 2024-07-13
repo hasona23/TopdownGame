@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>D:/Code/C#/TopdownGame/Content/player.png</SourceFile>
-  <SourceTime>2024-07-11T06:53:12.454201+03:00</SourceTime>
+  <SourceTime>2024-07-13T18:06:36.6900812+03:00</SourceTime>
   <DestFile>D:/Code/C#/TopdownGame/Content/bin/DesktopGL/Content/player.xnb</DestFile>
-  <DestTime>2024-07-11T20:26:03.4888535+03:00</DestTime>
+  <DestTime>2024-07-13T18:07:53.0336404+03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

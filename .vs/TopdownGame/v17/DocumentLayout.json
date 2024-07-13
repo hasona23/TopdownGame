@@ -3,19 +3,16 @@
   "WorkspaceRootPath": "D:\\Code\\C#\\TopdownGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|d:\\code\\c#\\topdowngame\\content\\arrow.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|solutionrelative:content\\arrow.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|d:\\code\\c#\\topdowngame\\comp_sys\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|solutionrelative:comp_sys\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|d:\\code\\c#\\topdowngame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AF6CD14-87E8-475A-AAE9-617984ED5E8B}|..\\Zap\\ZapEcs\\Zap_ecs\\Zap_ecs.csproj|d:\\code\\c#\\zap\\zapecs\\zap_ecs\\tilemaps\\tilemaprenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|d:\\code\\c#\\topdowngame\\tilemap.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|solutionrelative:tilemap.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|d:\\code\\c#\\topdowngame\\texturesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|solutionrelative:texturesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,54 +34,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TexturesManager.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\TopdownGame\\TexturesManager.cs",
-              "RelativeDocumentMoniker": "TexturesManager.cs",
-              "ToolTip": "D:\\Code\\C#\\TopdownGame\\TexturesManager.cs",
-              "RelativeToolTip": "TexturesManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T13:14:16.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "tilemap.csv",
-              "DocumentMoniker": "D:\\Code\\C#\\TopdownGame\\tilemap.csv",
-              "RelativeDocumentMoniker": "tilemap.csv",
-              "ToolTip": "D:\\Code\\C#\\TopdownGame\\tilemap.csv",
-              "RelativeToolTip": "tilemap.csv",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-07-12T11:33:00.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Game1.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\TopdownGame\\Game1.cs",
-              "RelativeDocumentMoniker": "Game1.cs",
-              "ToolTip": "D:\\Code\\C#\\TopdownGame\\Game1.cs",
-              "RelativeToolTip": "Game1.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAABoAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T02:51:56.236Z",
+              "Title": "arrow.png",
+              "DocumentMoniker": "D:\\Code\\C#\\TopdownGame\\Content\\arrow.png",
+              "RelativeDocumentMoniker": "Content\\arrow.png",
+              "ToolTip": "D:\\Code\\C#\\TopdownGame\\Content\\arrow.png",
+              "RelativeToolTip": "Content\\arrow.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-13T16:55:47.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TilemapRenderer.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Tilemaps\\TilemapRenderer.cs",
-              "RelativeDocumentMoniker": "..\\Zap\\ZapEcs\\Zap_ecs\\Tilemaps\\TilemapRenderer.cs",
-              "ToolTip": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Tilemaps\\TilemapRenderer.cs",
-              "RelativeToolTip": "..\\Zap\\ZapEcs\\Zap_ecs\\Tilemaps\\TilemapRenderer.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAEYAAAAQAAAA",
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\TopdownGame\\Comp_Sys\\Sprite.cs",
+              "RelativeDocumentMoniker": "Comp_Sys\\Sprite.cs",
+              "ToolTip": "D:\\Code\\C#\\TopdownGame\\Comp_Sys\\Sprite.cs",
+              "RelativeToolTip": "Comp_Sys\\Sprite.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABYAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T11:26:48.193Z",
+              "WhenOpened": "2024-07-13T16:53:39.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\TopdownGame\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "D:\\Code\\C#\\TopdownGame\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAD8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:51:56.236Z",
               "EditorCaption": ""
             }
           ]
