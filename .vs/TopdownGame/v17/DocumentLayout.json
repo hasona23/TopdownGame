@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AF6CD14-87E8-475A-AAE9-617984ED5E8B}|..\\Zap\\ZapEcs\\Zap_ecs\\Zap_ecs.csproj|d:\\code\\c#\\zap\\zapecs\\zap_ecs\\tilemaps\\tilemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AF6CD14-87E8-475A-AAE9-617984ED5E8B}|..\\Zap\\ZapEcs\\Zap_ecs\\Zap_ecs.csproj|d:\\code\\c#\\zap\\zapecs\\zap_ecs\\core\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|d:\\code\\c#\\topdowngame\\comp_sys\\collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,13 +18,21 @@
       "RelativeMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|solutionrelative:comp_sys\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3AF6CD14-87E8-475A-AAE9-617984ED5E8B}|..\\Zap\\ZapEcs\\Zap_ecs\\Zap_ecs.csproj|d:\\code\\c#\\zap\\zapecs\\zap_ecs\\tilemaps\\tilemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|d:\\code\\c#\\topdowngame\\comp_sys\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|solutionrelative:comp_sys\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF6CD14-87E8-475A-AAE9-617984ED5E8B}|..\\Zap\\ZapEcs\\Zap_ecs\\Zap_ecs.csproj|d:\\code\\c#\\zap\\zapecs\\zap_ecs\\core\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AF6CD14-87E8-475A-AAE9-617984ED5E8B}|..\\Zap\\ZapEcs\\Zap_ecs\\Zap_ecs.csproj|d:\\code\\c#\\zap\\zapecs\\zap_ecs\\core\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AF6CD14-87E8-475A-AAE9-617984ED5E8B}|..\\Zap\\ZapEcs\\Zap_ecs\\Zap_ecs.csproj|d:\\code\\c#\\zap\\zapecs\\zap_ecs\\core\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AF6CD14-87E8-475A-AAE9-617984ED5E8B}|..\\Zap\\ZapEcs\\Zap_ecs\\Zap_ecs.csproj|d:\\code\\c#\\zap\\zapecs\\zap_ecs\\core\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|d:\\code\\c#\\topdowngame\\comp_sys\\velocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461AC86D-B85D-4DF2-AEC1-4F0CE07EBD90}|TopdownGame.csproj|solutionrelative:comp_sys\\velocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AF6CD14-87E8-475A-AAE9-617984ED5E8B}|..\\Zap\\ZapEcs\\Zap_ecs\\Zap_ecs.csproj|d:\\code\\c#\\zap\\zapecs\\zap_ecs\\core\\gamesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -37,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,6 +54,49 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Velocity.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\TopdownGame\\Comp_Sys\\Velocity.cs",
+              "RelativeDocumentMoniker": "Comp_Sys\\Velocity.cs",
+              "ToolTip": "D:\\Code\\C#\\TopdownGame\\Comp_Sys\\Velocity.cs",
+              "RelativeToolTip": "Comp_Sys\\Velocity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:45:35.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "World.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Core\\World.cs",
+              "RelativeDocumentMoniker": "..\\Zap\\ZapEcs\\Zap_ecs\\Core\\World.cs",
+              "ToolTip": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Core\\World.cs",
+              "RelativeToolTip": "..\\Zap\\ZapEcs\\Zap_ecs\\Core\\World.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:45:14.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IComponent.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Core\\IComponent.cs",
+              "RelativeDocumentMoniker": "..\\Zap\\ZapEcs\\Zap_ecs\\Core\\IComponent.cs",
+              "ToolTip": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Core\\IComponent.cs",
+              "RelativeToolTip": "..\\Zap\\ZapEcs\\Zap_ecs\\Core\\IComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:44:50.72Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -62,13 +113,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Transform.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\TopdownGame\\Comp_Sys\\Transform.cs",
+              "RelativeDocumentMoniker": "Comp_Sys\\Transform.cs",
+              "ToolTip": "D:\\Code\\C#\\TopdownGame\\Comp_Sys\\Transform.cs",
+              "RelativeToolTip": "Comp_Sys\\Transform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:42:29.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Tilemap.cs",
               "DocumentMoniker": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Tilemaps\\Tilemap.cs",
               "RelativeDocumentMoniker": "..\\Zap\\ZapEcs\\Zap_ecs\\Tilemaps\\Tilemap.cs",
               "ToolTip": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Tilemaps\\Tilemap.cs",
               "RelativeToolTip": "..\\Zap\\ZapEcs\\Zap_ecs\\Tilemaps\\Tilemap.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAAF4AAAAIAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T00:52:07.193Z",
               "EditorCaption": ""
@@ -81,7 +145,7 @@
               "RelativeDocumentMoniker": "Comp_Sys\\Sprite.cs",
               "ToolTip": "D:\\Code\\C#\\TopdownGame\\Comp_Sys\\Sprite.cs",
               "RelativeToolTip": "Comp_Sys\\Sprite.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAACYAAAAMAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACsAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T00:51:08.336Z",
               "EditorCaption": ""
@@ -94,61 +158,35 @@
               "RelativeDocumentMoniker": "Comp_Sys\\Collider.cs",
               "ToolTip": "D:\\Code\\C#\\TopdownGame\\Comp_Sys\\Collider.cs",
               "RelativeToolTip": "Comp_Sys\\Collider.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAAAEYAAAA+AAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE4AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T00:48:33.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "World.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Core\\World.cs",
-              "RelativeDocumentMoniker": "..\\Zap\\ZapEcs\\Zap_ecs\\Core\\World.cs",
-              "ToolTip": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Core\\World.cs",
-              "RelativeToolTip": "..\\Zap\\ZapEcs\\Zap_ecs\\Core\\World.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAAAEMAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T00:07:25.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "GameSystem.cs",
               "DocumentMoniker": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Core\\GameSystem.cs",
               "RelativeDocumentMoniker": "..\\Zap\\ZapEcs\\Zap_ecs\\Core\\GameSystem.cs",
               "ToolTip": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Core\\GameSystem.cs",
               "RelativeToolTip": "..\\Zap\\ZapEcs\\Zap_ecs\\Core\\GameSystem.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABoAAAAaAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T00:07:23.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Entity.cs",
               "DocumentMoniker": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Core\\Entity.cs",
               "RelativeDocumentMoniker": "..\\Zap\\ZapEcs\\Zap_ecs\\Core\\Entity.cs",
               "ToolTip": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Core\\Entity.cs",
               "RelativeToolTip": "..\\Zap\\ZapEcs\\Zap_ecs\\Core\\Entity.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAACEAAAAqAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwCsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T00:07:22.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Component.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Core\\Component.cs",
-              "RelativeDocumentMoniker": "..\\Zap\\ZapEcs\\Zap_ecs\\Core\\Component.cs",
-              "ToolTip": "D:\\Code\\C#\\Zap\\ZapEcs\\Zap_ecs\\Core\\Component.cs",
-              "RelativeToolTip": "..\\Zap\\ZapEcs\\Zap_ecs\\Core\\Component.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T00:07:20.99Z",
               "EditorCaption": ""
             }
           ]

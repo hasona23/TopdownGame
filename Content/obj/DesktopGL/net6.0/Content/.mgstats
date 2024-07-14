@@ -1,11 +1,11 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"D:/Code/C#/TopdownGame/Content/arrow.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/Content/arrow.xnb","TextureProcessor","Texture2DContent",128,113,0.1457743
+"D:/Code/C#/TopdownGame/Content/arrow.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/Content/arrow.xnb","TextureProcessor","Texture2DContent",128,113,0.1552847
 "D:/Code/C#/TopdownGame/Content/bow_arrow_anim.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/Content/bow_arrow_anim.xnb","TextureProcessor","Texture2DContent",155,853,0.0018367
 "D:/Code/C#/TopdownGame/Content/bow.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/Content/bow.xnb","TextureProcessor","Texture2DContent",107,341,0.0016368
 "D:/Code/C#/TopdownGame/Content/File.spritefont","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2080,37919,0.1385045
 "D:/Code/C#/TopdownGame/Content/pixil-frame-0 (1).png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/Content/ground.xnb","TextureProcessor","Texture2DContent",89,341,0.0013635
 "D:/Code/C#/TopdownGame/Content/pixil-frame-0 (2).png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/Content/wall.xnb","TextureProcessor","Texture2DContent",89,341,0.0042612
-"D:/Code/C#/TopdownGame/Content/player.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/Content/player.xnb","TextureProcessor","Texture2DContent",261,1109,0.2181361
+"D:/Code/C#/TopdownGame/Content/player.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/Content/player.xnb","TextureProcessor","Texture2DContent",261,1109,0.0063657
 "D:/Code/C#/TopdownGame/Content/PublicPixel-E447g.bmp","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/Content/fontbmp.xnb","TextureProcessor","Texture2DContent",1536138,1536085,0.0836998
 "D:/Code/C#/TopdownGame/Content/PublicPixel-E447g.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/Content/fontpng.xnb","TextureProcessor","Texture2DContent",9689,1536085,0.0456357
 "D:/Code/C#/TopdownGame/Content/Slime.png","D:/Code/C#/TopdownGame/Content/bin/DesktopGL/Content/Slime.xnb","TextureProcessor","Texture2DContent",171,597,0.0016948

@@ -5,7 +5,7 @@ using TopdownGame.Comp_Sys;
 
 namespace TopdownGame.Components
 {
-    public class Sprite:Component
+    public class Sprite:IComponent
     {
         
         public Texture2D texture;
@@ -39,8 +39,9 @@ namespace TopdownGame.Components
             
             if (sb == null)
                 return;
-            foreach(Entity entity in Entities) 
+            foreach(int id in registeredEntityIds) 
             {
+                Entity entity = world.GetEntityById(id);
                 Sprite s = entity.GetComponent<Sprite>();
                 Transform t = entity.GetComponent<Transform>();
 

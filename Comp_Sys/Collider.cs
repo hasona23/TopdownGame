@@ -10,7 +10,7 @@ using Zap_ecs.Tilemaps;
 
 namespace TopdownGame.Comp_Sys
 {
-    public class Collider : Component
+    public class Collider : IComponent
     {
 
         public Rectangle rect;
@@ -74,8 +74,9 @@ namespace TopdownGame.Comp_Sys
         
         public override void Update(GameTime gt, SpriteBatch sb = null)
         {
-            foreach(var entity in Entities)
+            foreach(int id in registeredEntityIds)
             {
+                Entity entity = world.GetEntityById(id);
                 if (entity.HasComponent<Velocity>()) 
                 {
                     var velocity = entity.GetComponent<Velocity>();
