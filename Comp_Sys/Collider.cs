@@ -10,7 +10,7 @@ using Zap_ecs.Tilemaps;
 
 namespace TopdownGame.Comp_Sys
 {
-    public class Collider : IComponent
+    public class Collider : Component
     {
 
         public Rectangle rect;
@@ -57,31 +57,32 @@ namespace TopdownGame.Comp_Sys
     {
         
         List<Tile> collisionTile;
-        public MovePhysics(params Tilemap[] collisionTilemaps) : base() 
+        public MovePhysics(params Tilemap[] collisionTilemaps) : base()
         {
-            SetRequirments(typeof(Transform),typeof(Collider));
-           
+            AddRequiredComponent<Collider>();
+            AddRequiredComponent<Transform>();
+
             collisionTile = new List<Tile>();
 
             foreach (var tilemap in collisionTilemaps) 
             {
                 if(tilemap.collisionMode != CollisionMode.RigidBody)
                     continue;
-                collisionTile.AddRange(tilemap.GetCollisions());
+                collisionTile.AddRange(tilemap.GetCollisions(1));
             }
         }
         
         public override void Update(GameTime gt, SpriteBatch sb = null)
         {
-            foreach(var entity in entities)
+            foreach(var entity in Entities)
             {
                 if (entity.HasComponent<Velocity>()) 
                 {
                     var velocity = entity.GetComponent<Velocity>();
                     float changeX = velocity.dir.X * velocity.speed * (float)(gt.ElapsedGameTime.TotalSeconds);
                     float changeY = velocity.dir.Y * velocity.speed * (float)(gt.ElapsedGameTime.TotalSeconds);
-                    MoveX(collisionTile,this.entities,changeX,entity);
-                    MoveY(collisionTile, this.entities,changeY, entity);
+                    MoveX(collisionTile,this.Entities,changeX,entity);
+                    MoveY(collisionTile, this.Entities,changeY, entity);
                 }
             }
         }

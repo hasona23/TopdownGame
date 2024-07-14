@@ -1,10 +1,11 @@
 ﻿using Microsoft.Xna.Framework.Graphics;
 using System;
+using System.Diagnostics;
 using TopdownGame.Comp_Sys;
 
 namespace TopdownGame.Components
 {
-    public class Sprite:IComponent
+    public class Sprite:Component
     {
         
         public Texture2D texture;
@@ -29,19 +30,22 @@ namespace TopdownGame.Components
     {
         public DrawSystem() : base() 
         {
-            SetRequirments(typeof(Transform),typeof(Sprite));
+            AddRequiredComponent<Sprite>();
+            AddRequiredComponent<Transform>();
         }
 
         public override void Update(GameTime gt, SpriteBatch sb = null)
         {
+            
             if (sb == null)
                 return;
-            foreach(Entity entity in entities) 
+            foreach(Entity entity in Entities) 
             {
                 Sprite s = entity.GetComponent<Sprite>();
                 Transform t = entity.GetComponent<Transform>();
 
                 sb.Draw(s.texture,new Rectangle(t.pos.ToPoint(),new Point(s.src.Width*(int)t.scale,s.src.Height*(int)t.scale)),s.src,Color.White);
+                
 
             }
         }

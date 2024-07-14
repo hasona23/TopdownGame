@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TopdownGame.Comp_Sys
 {
-    public class Velocity : IComponent
+    public class Velocity : Component
     {
        
         public Vector2 dir = Vector2.Zero;

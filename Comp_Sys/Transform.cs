@@ -2,7 +2,7 @@
 
 namespace TopdownGame.Comp_Sys
 {
-    public class Transform:IComponent
+    public class Transform:Component
     {
          
         public Vector2 pos;
